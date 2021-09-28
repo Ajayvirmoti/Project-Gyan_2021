@@ -1,0 +1,9 @@
+.Main p{
+    color: rgb(39, 39, 39);
+} 
+.content h1{
+    color: darkslategray;
+    margin-left:5%;
+    animation: reverse;
+    font-family: sans-serif;
+}
